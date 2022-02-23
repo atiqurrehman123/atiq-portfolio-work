@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/atiqurrehman123/atiq-portfolio-work/static/css/main.d715ac16.chunk.css",
+    "main.js": "/atiqurrehman123/atiq-portfolio-work/static/js/main.55d12356.chunk.js",
+    "main.js.map": "/atiqurrehman123/atiq-portfolio-work/static/js/main.55d12356.chunk.js.map",
+    "runtime-main.js": "/atiqurrehman123/atiq-portfolio-work/static/js/runtime-main.8768b675.js",
+    "runtime-main.js.map": "/atiqurrehman123/atiq-portfolio-work/static/js/runtime-main.8768b675.js.map",
+    "static/css/2.dbd8b1e0.chunk.css": "/atiqurrehman123/atiq-portfolio-work/static/css/2.dbd8b1e0.chunk.css",
+    "static/js/2.9b3c987b.chunk.js": "/atiqurrehman123/atiq-portfolio-work/static/js/2.9b3c987b.chunk.js",
+    "static/js/2.9b3c987b.chunk.js.map": "/atiqurrehman123/atiq-portfolio-work/static/js/2.9b3c987b.chunk.js.map",
+    "index.html": "/atiqurrehman123/atiq-portfolio-work/index.html",
+    "precache-manifest.d120be69572b874ebdb9667744b28e9c.js": "/atiqurrehman123/atiq-portfolio-work/precache-manifest.d120be69572b874ebdb9667744b28e9c.js",
+    "service-worker.js": "/atiqurrehman123/atiq-portfolio-work/service-worker.js",
+    "static/css/2.dbd8b1e0.chunk.css.map": "/atiqurrehman123/atiq-portfolio-work/static/css/2.dbd8b1e0.chunk.css.map",
+    "static/css/main.d715ac16.chunk.css.map": "/atiqurrehman123/atiq-portfolio-work/static/css/main.d715ac16.chunk.css.map",
+    "static/js/2.9b3c987b.chunk.js.LICENSE.txt": "/atiqurrehman123/atiq-portfolio-work/static/js/2.9b3c987b.chunk.js.LICENSE.txt",
+    "static/media/profilepic.jpeg": "/atiqurrehman123/atiq-portfolio-work/static/media/profilepic.c793c56e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8768b675.js",
+    "static/css/2.dbd8b1e0.chunk.css",
+    "static/js/2.9b3c987b.chunk.js",
+    "static/css/main.d715ac16.chunk.css",
+    "static/js/main.55d12356.chunk.js"
+  ]
+}
