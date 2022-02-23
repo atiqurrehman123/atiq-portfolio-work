@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-
+import Profilepic from "./profilepic.jpeg"
 export default class About extends Component {
   render() {
     const { name } = this.props.resumeData;
-    const profilepic = `images/${this.props.resumeData.image}`;
+    const profilepic = Profilepic;
     const { aboutme } = this.props.resumeData;
     const { city } = this.props.resumeData.address;
     const { state } = this.props.resumeData.address;
@@ -11,6 +11,7 @@ export default class About extends Component {
     const { phone } = this.props.resumeData;
     const { email } = this.props.resumeData;
     const resumeDownload = this.props.resumeData.resumedownload;
+    console.log("profilepic",profilepic)
 
     return (
       <section id="about">

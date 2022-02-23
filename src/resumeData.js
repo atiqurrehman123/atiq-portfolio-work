@@ -2,7 +2,7 @@
 const resumeData = {
   imagebaseurl: 'https://atiqurrehman123.github.io/',
   name: 'Atiq ur Rehman',
-  image: 'profilepic.jpeg',
+  image: 'sample-image.jpg',
   roles: [
     'Software Engineer',
     'Web Developer',
